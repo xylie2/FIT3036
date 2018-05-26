@@ -4,7 +4,7 @@ The aims of this project is to get the total surface area of the roads in a desi
 Dependencies that needed to be downloaded before usage:
  - npm install socket.io --save
  - npm install express
- - npm install pngjs
+ - npm install pngjs2
  - npm install gm
  
   To run the program, go to this file directory and type "node app.js".
